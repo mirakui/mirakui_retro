@@ -1,6 +1,6 @@
 FROM ruby:2.2.1-onbuild
 
-MAINTAINER mirakui <mimitako@gmail.com>
+MAINTAINER Issei Naruta <mimitako@gmail.com>
 
 ENV LANG C.UTF-8
 
