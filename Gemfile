@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 
-gem 'retrobot', '0.3.3'
+gem 'retrobot', '0.3.4'
