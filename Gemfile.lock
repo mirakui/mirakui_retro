@@ -26,7 +26,7 @@ GEM
     multipart-post (2.0.0)
     naught (1.0.0)
     oauth (0.4.7)
-    retrobot (0.3.4)
+    retrobot (0.3.5)
       activesupport (~> 4.0)
       daemons
       get-twitter-oauth-token
@@ -53,4 +53,4 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  retrobot (= 0.3.4)
+  retrobot (= 0.3.5)
